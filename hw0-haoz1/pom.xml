@@ -4,8 +4,9 @@
 	<artifactId>hw0-haoz1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<scm>
-		<connection>scm:git:git://github.com/lelouchmatlab/hw0-haoz1.git</connection>
-		<developerConnection>scm:git:git://github.com/lelouchmatlab/hw0-haoz1.git</developerConnection>
+	  <tag>hw0-haoz1-0.0.1</tag>
+	  <connection>scm:git:git@github.com:lelouchmatlab/hw0-haoz1.git</connection>
+	  <developerConnection>scm:git:git@github.com:lelouchmatlab/hw0-haoz1.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
